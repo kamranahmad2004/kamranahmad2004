@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Web Developer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kamranahmad2004&label=Profile%20views&color=0e75b6&style=flat" alt="kamranahmad2004" /> </p>
-- 🔭 I’m currently working on [pang3a] (https://pang3a-lilac.vercel.app/)
+- 🔭 I’m currently working on [pang3a](https://pang3a-lilac.vercel.app/).
 
 - 🌱 I’m currently learning **Next js**
 
