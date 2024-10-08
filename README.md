@@ -4,14 +4,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kamranahmad2004&label=Profile%20views&color=0e75b6&style=flat" alt="kamranahmad2004" /> </p>
 - 🔭 I’m currently working on [pang3a](https://pang3a-lilac.vercel.app/).
-
-- 🌱 I’m currently learning **Next js**
-
-- 👯 I’m looking to collaborate on **wallet app**
-
-- 💬 Ask me about **react**
-
-- 📫 How to reach me **kamrananwar2004@gmail.com**
+- 🌱 I’m currently learning **Next.js**.
+- 👯 I’m looking to collaborate on **wallet app**.
+- 💬 Ask me about **React**.
+- 📫 How to reach me: **kamrananwar2004@gmail.com**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
