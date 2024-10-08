@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://i.pinimg.com/originals/b9/ab/f0/b9abf0a0feb3219f56a51448d8ffae2c.gif" width="100%" style="max-width: 100%;" alt="Banner GIF">
+  <img src="https://i.pinimg.com/originals/b9/ab/f0/b9abf0a0feb3219f56a51448d8ffae2c.gif" width="100%" height="200px" style="object-fit: cover;" alt="Banner GIF">
 </p>
+
 <h1 align="center">Hi 👋, I'm Kamran Ahmad</h1>
 <h3 align="center">A passionate Web Developer from Pakistan</h3>
 <p align="right">
