@@ -1,10 +1,12 @@
 <h1 align="center">Hi 👋, I'm Kamran Ahmad</h1>
 <h3 align="center">A passionate Web Developer from Pakistan</h3>
-<div>
-<p align="right">
-<img width="400" alt="coding" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
-</p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kamranahmad2004&label=Profile%20views&color=0e75b6&style=flat" alt="kamranahmad2004" /> </p>
+
+<div align="center">
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=kamranahmad2004&label=Profile%20views&color=0e75b6&style=flat" alt="kamranahmad2004" />
+    <img width="400" alt="coding" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+  </p>
+</div>
 
 - 🔭 I’m currently working on [pang3a](https://pang3a-lilac.vercel.app/)
 
@@ -16,7 +18,6 @@
 
 - 📫 How to reach me **kamrananwar2004@gmail.com**
 
-</div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/kamran-ahmad2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kamran-ahmad2004" height="30" width="40" /></a>
