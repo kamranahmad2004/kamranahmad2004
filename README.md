@@ -25,6 +25,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kamranahmad2004&show_icons=true&locale=en&layout=compact" alt="kamranahmad2004" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kamranahmad2004&show_icons=true&locale=en" alt="kamranahmad2004" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kamranahmad2004&" alt="kamranahmad2004" /></p>
