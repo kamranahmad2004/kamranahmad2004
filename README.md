@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [pang3a](https://pang3a-lilac.vercel.app/).
 
-- 🌱 I’m currently learning **Next.js**.
+- 🌱 I’m currently learning **Node.js**.
 
 - 👯 I’m looking to collaborate on **wallet app**.
 
