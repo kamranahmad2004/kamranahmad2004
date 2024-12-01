@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kamran Ahmad</h1>
 <h3 align="center">A passionate WebApp Developer from Pakistan</h3>
-<img src="https://miro.medium.com/v2/resize:fit:1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif" align="right" alt="Profile Image" style="width: 383px;">
-
+<img src="https://miro.medium.com/v2/resize:fit:1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif" align="right" alt="Profile Image" style="width: 384px;">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kamranahmad2004&label=Profile%20views&color=0e75b6&style=flat" alt="kamranahmad2004" /> </p>
 
 - 🔭 I’m currently working on [pang3a](https://pang3a-lilac.vercel.app/).
