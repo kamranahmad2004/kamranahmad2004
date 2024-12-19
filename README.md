@@ -19,9 +19,9 @@
 <a href="https://instagram.com/kamran_ahmad_here" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kamran_ahmad_here" height="30" width="40" /></a>
 </p>
 
-<h2 align="center">⚒ Languages-Frameworks-Tools ⚒</h2>
+<h2>⚒ Languages-Frameworks-Tools ⚒</h2>
 <br/>
-<div align="center" style="margin-bottom: 20px;">
+<div style="margin-bottom: 20px;">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,git,java,javascript,python,mysql,nodejs,oracle" />
     <img src="https://skillicons.dev/icons?i=redux,sass,typescript,firebase,reactnative" /><br>
 </div>
