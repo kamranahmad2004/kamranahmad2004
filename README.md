@@ -3,7 +3,7 @@
 <img src="https://miro.medium.com/v2/resize:fit:1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif" align="right" alt="Profile Image" style="width: 384px;">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kamranahmad2004&label=Profile%20views&color=0e75b6&style=flat" alt="kamranahmad2004" /> </p>
 
-- 🔭 I’m currently working on [pang3a](https://pang3a-lilac.vercel.app/).
+- 🔭 I’m currently working on **teresecrow**.
 
 - 🌱 I’m currently learning **Node.js**.
 
@@ -29,5 +29,5 @@
 
 <div style="align-item: center">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kamranahmad2004&show_icons=true&locale=en&layout=compact" alt="kamranahmad2004" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kamranahmad2004&" alt="kamranahmad2004" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=kamranahmad2004&" alt="kamranahmad2004" /></p>
 </div>
