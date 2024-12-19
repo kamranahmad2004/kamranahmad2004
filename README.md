@@ -21,10 +21,11 @@
 
 <h2 align="center">⚒ Languages-Frameworks-Tools ⚒</h2>
 <br/>
-<div align="center">
+<div align="center" style="margin-bottom: 20px;">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,git,java,javascript,python,mysql,nextjs,nodejs,oracle" />
-    <img src="https://skillicons.dev/icons?i=redux,sass,typescript,firebase" /><br>
+    <img src="https://skillicons.dev/icons?i=redux,sass,typescript,firebase,reactnative" /><br>
 </div>
+
 
 <div style="align-item: center">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kamranahmad2004&show_icons=true&locale=en&layout=compact" alt="kamranahmad2004" /></p>
