@@ -13,7 +13,6 @@
 - 💬 Ask me about **React**.  
 - 📫 How to reach me: **kamrananwar2004@gmail.com**.  
 
----
 
 <h3 align="left">Connect with me:</h3>
 <p align="left" style="margin-bottom: 15px;">
@@ -25,7 +24,6 @@
   </a>
 </p>
 
----
 
 <h2>⚒ Languages-Frameworks-Tools ⚒</h2>
 <div style="margin-bottom: 20px;">
