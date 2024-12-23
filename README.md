@@ -26,7 +26,7 @@
 
 
 <h2>⚒ Languages-Frameworks-Tools ⚒</h2>
-<div style="margin-bottom: 20px;">
+<div align="center" style="margin-bottom: 20px;">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,git,java,javascript,python,mysql,nodejs,oracle" />
     <img src="https://skillicons.dev/icons?i=redux,sass,typescript,firebase,reactnative" /><br>
 </div>
