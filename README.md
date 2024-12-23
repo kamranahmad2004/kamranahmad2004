@@ -15,7 +15,7 @@
 
 
 <h3 align="left">Connect with me:</h3>
-<p align="left" style="margin-bottom: 15px;">
+<p align="center" style="margin-bottom: 15px;">
   <a href="https://linkedin.com/in/kamran-ahmad2004" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kamran-ahmad2004" height="30" width="40" />
   </a>
