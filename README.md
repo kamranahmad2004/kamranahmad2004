@@ -29,8 +29,7 @@
 <div style="margin-bottom: 20px;">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,git,java,javascript,python,mysql,nodejs,oracle" />
     <img src="https://skillicons.dev/icons?i=redux,sass,typescript,firebase,reactnative" /><br>
-</div>
-
+</div><br>
 
 <div align="center">
   <img width="390" style="margin-right: 10px;" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=kamranahmad2004&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
