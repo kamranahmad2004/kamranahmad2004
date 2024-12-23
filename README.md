@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning **Node.js**.  
 - 👯 I’m looking to collaborate on **wallet app**.  
 - 💬 Ask me about **React**.  
-- 📫 How to reach me: **kamrananwar2004@gmail.com**.  
+- 📫 How to reach me: **kamrananwar2004@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
