@@ -24,7 +24,6 @@
   </a>
 </p>
 
-
 <h2>⚒ Languages-Frameworks-Tools ⚒</h2>
 <div style="margin-bottom: 20px;">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,git,java,javascript,python,mysql,nodejs,oracle" />
