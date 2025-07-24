@@ -8,8 +8,8 @@
 </p>
 
 - 🔭 I’m currently working at **Nexcypher** as a Developer  
-- 🚀 Technologies I use include: **MERN Stack, React Native, Flutter, Unity (C#), Firebase, SQLite, and Web Scraping**  
-- 🧠 Learning more about advanced **Game Development in Unity (C#)**  
+- 🚀 Technologies I use include: **MERN Stack, React Native, Flutter, Unity (C#), and Web Scraping**  
+- 🧠 Learning more about advanced **Development concepts**  
 - 💬 Ask me about **Full Stack Web, Cross-Platform Mobile Apps, and Game Development**  
 - 📫 Reach me at: **kamrananwar2004@gmail.com**  
 - 🌱 Passionate about building real-world apps and solving tech challenges  
