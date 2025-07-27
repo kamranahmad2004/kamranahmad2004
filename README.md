@@ -28,8 +28,8 @@
   <a href="https://instagram.com/kamran_ahmad_here" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kamran_ahmad_here" height="30" width="40" />
   </a>
- <a href="https://kamranahmadportfolio.vercel.app/" target="_blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/internetarchive.svg" alt="portfolio" height="30" width="40" />
+  <a href="https://kamranahmadportfolio.vercel.app/" target="_blank">
+  <img align="center" src="https://cdn-icons-png.flaticon.com/512/25/25694.png" alt="kamran portfolio" height="30" width="30" />
 </a>
 
 </p>
