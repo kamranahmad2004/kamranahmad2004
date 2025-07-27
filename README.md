@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/github-banner.png" alt="Kamran Ahmad Banner" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Kamran Ahmad</h1>
 <h3 align="center">A passionate Full-Stack, Android, and Game Developer from Pakistan</h3>
 
