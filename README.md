@@ -1,60 +1,95 @@
-<p align="center">
-  <img src="assets/github-banner.png" alt="Kamran Ahmad Banner" />
-</p>
+<!-- =========================================================== -->
+<!-- 👋 HEADER 👋 -->
+<!-- =========================================================== -->
+<div>
+<img src="./assets/github-banner.png" alt="Kamran Ahmad Banner" />
+</div>
 
-<h1 align="center">Hi 👋, I'm Kamran Ahmad</h1>
-<h3 align="center">A passionate Full-Stack, Android, and Game Developer from Pakistan</h3>
+<div>
+<h1>👋 Hi, I'm <strong>Kamran Ahmad</strong></h1>
+<h3>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&duration=5000&vLeft=true&width=500&height=50&lines=Welcome+to+my+GitHub!;Full-Stack,+Mobile,+and+Game+Developer;Passionate+about+Real+World+Apps">
+</h3>
+</div>
 
-<img src="https://miro.medium.com/v2/resize:fit:1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif" align="right" alt="Coding Gif" width="380" />
+<!-- =========================================================== -->
+<!-- 👇 INFO 👇 -->
+<!-- =========================================================== -->
+<ul>
+  <li>🔭 Currently working at <strong>Nexcypher</strong> as a Developer</li>
+  <li>🚀 Skilled in <strong>MERN Stack, React Native, Flutter (Dart), Unity (C#), and Web Scraping</strong></li>
+  <li>🧠 Learning advanced <strong>development concepts</strong></li>
+  <li>💬 Ask me about <strong>Full Stack Web, Cross-Platform Mobile Apps, and Game Development</strong></li>
+  <li>📫 Reach me at <a href="mailto:kamrananwar2004@gmail.com" target="_blank">kamrananwar2004@gmail.com</a></li>
+  <li>⚡ Fun fact: <strong>I think in 0s and 1s</strong></li>
+</ul>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=kamranahmad2004&label=Profile%20views&color=0e75b6&style=flat" alt="kamranahmad2004" />
-</p>
+<!-- =========================================================== -->
+<!-- 💻 BEAUTIFUL GROUPED ICONS TECH STACK 💻 -->
+<!-- =========================================================== -->
+<h1>💻 Tech Stack</h1>
 
-- 🔭 I’m currently working at **Nexcypher** as a Developer  
-- 🚀 Technologies I use include: **MERN Stack, React Native, Flutter, Unity (C#), and Web Scraping**  
-- 🧠 Learning more about advanced **Development concepts**  
-- 💬 Ask me about **Full Stack Web, Cross-Platform Mobile Apps, and Game Development**  
-- 📫 Reach me at: **kamrananwar2004@gmail.com**  
-- 🌱 Passionate about building real-world apps and solving tech challenges  
-
----
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/kamran-ahmad2004" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kamran-ahmad2004" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/kamran_ahmad_here" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kamran_ahmad_here" height="30" width="40" />
-  </a>
-  <a href="https://kamranahmadportfolio.vercel.app/" target="_blank">
-  <img align="center" src="https://cdn-icons-png.flaticon.com/512/25/25694.png" alt="kamran portfolio" height="30" width="30" />
-</a>
-
-</p>
-
----
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="firebase" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="unity" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
-</p>
-
----
-
-<h3 align="left">GitHub Stats:</h3>
+<!-- 🎨 Frontend -->
+<h3>🎨 Frontend</h3>
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kamranahmad2004&show_icons=true&theme=radical" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamranahmad2004&layout=compact&theme=radical" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,tailwind" />
 </p>
+
+<!-- ⚙️ Backend -->
+<h3>⚙️ Backend</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+<!-- 📱 Mobile & Game Dev -->
+<h3>📱 Mobile & Game Development</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,react,unity" />
+</p>
+
+<!-- 💾 Databases -->
+<h3>💾 Databases</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+<!-- 🛠️ Languages -->
+<h3>🛠️ Languages</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=java,cpp,cs,dart,python" />
+</p>
+
+<!-- 🔧 Tools -->
+<h3>🔧 Tools</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+<!-- =========================================================== -->
+<!-- 📈 STATS 📈 -->
+<!-- =========================================================== -->
+<h2>📊 GitHub Stats</h2>
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=kamranahmad2004&theme=tokyonight&hide_border=false" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamranahmad2004&layout=compact&theme=tokyonight" />
+
+</div>
+
+<!-- =========================================================== -->
+<!-- 🌐 CONNECT WITH ME 🌐 -->
+<!-- =========================================================== -->
+<h2>🌐 Connect with Me:</h2>
+
+<div>
+<a href="https://linkedin.com/in/kamran-ahmad2004" target="_blank">
+<img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://instagram.com/kamran_ahmad_here" target="_blank">
+<img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="https://kamranahmadportfolio.vercel.app/" target="_blank">
+<img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+</div>
