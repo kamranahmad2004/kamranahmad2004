@@ -20,7 +20,7 @@
   <li>🚀 Skilled in <strong>MERN Stack, React Native, Flutter (Dart), Unity (C#), and Web Scraping</strong></li>
   <li>🧠 Learning advanced <strong>development concepts</strong></li>
   <li>💬 Ask me about <strong>Full Stack Web, Cross-Platform Mobile Apps, and Game Development</strong></li>
-  <li>📫 Reach me at <a href="mailto:kamrananwar2004@gmail.com" target="_blank">kamrananwar2004@gmail.com</a></li>
+  <li>📫 Reach me at <a href="mailto:kamranahmaddev@gmail.com" target="_blank">kamranahmaddev@gmail.com</a></li>
   <li>⚡ Fun fact: <strong>I think in 0s and 1s</strong></li>
 </ul>
 
