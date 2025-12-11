@@ -56,7 +56,7 @@
 <!-- 🛠️ Languages -->
 <h3>🛠️ Languages</h3>
 <p>
-  <img src="https://skillicons.dev/icons?i=java,cpp,cs,dart,python" />
+  <img src="https://skillicons.dev/icons?i=java,cpp,cs,dart" />
 </p>
 
 <!-- 🔧 Tools -->
