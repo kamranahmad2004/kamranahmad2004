@@ -12,21 +12,15 @@
 </h3>
 </div>
 
-<!-- =========================================================== -->
-<!-- 👇 INFO 👇 -->
-<!-- =========================================================== -->
 <ul>
-  <li>🔭 Currently working at <strong>Nexcypher</strong> as a Developer</li>
-  <li>🚀 Skilled in <strong>MERN Stack, React Native, Flutter (Dart), Unity (C#), and Web Scraping</strong></li>
+  <li>🔭 Currently exploring new opportunities to collaborate </li>
+  <li>🚀 Skilled in <strong>MERN Stack, Flutter (Dart), React Native, Unity (C#)</strong></li>
   <li>🧠 Learning advanced <strong>development concepts</strong></li>
-  <li>💬 Ask me about <strong>Full Stack Web, Cross-Platform Mobile Apps, and Game Development</strong></li>
+  <li>🧑‍💻 See my all projects <a href="https://github.com/kamranahmad2004?tab=repositories" target="_blank">My Repositories</a> </li>
   <li>📫 Reach me at <a href="mailto:kamranahmaddev@gmail.com" target="_blank">kamranahmaddev@gmail.com</a></li>
   <li>⚡ Fun fact: <strong>I think in 0s and 1s</strong></li>
 </ul>
 
-<!-- =========================================================== -->
-<!-- 💻 BEAUTIFUL GROUPED ICONS TECH STACK 💻 -->
-<!-- =========================================================== -->
 <h1>💻 Tech Stack</h1>
 
 <!-- 🎨 Frontend -->
